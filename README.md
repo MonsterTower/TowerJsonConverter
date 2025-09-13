@@ -49,7 +49,9 @@ Newtonsoft.Json的一些自定义转换器
 ##### Vector3，Vector3Int
 
 1.三元写法\[x,y,z]
+
 2.二元写法\[x,y]，那么z默认为0
+
 3.一元写法x,那么x=y，z为0
 
 ### 使用协议
